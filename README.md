@@ -5,8 +5,8 @@
 ## 2. Usage
 
 ```
-$ git clone https://github.com/LucienLau/eos-dapps.git
-$ cd eos-dapp/simple-task/frontend
+$ git clone 
+$ cd simple-task/frontend
 $ npm install
 $ npm start
 ```
